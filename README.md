@@ -1,10 +1,10 @@
-# Project 6 - *Name of App Here*
+# Project 6 - BeReal2
 
-Submitted by: **Your Name Here**
+Submitted by: Bryson
 
-**Name of your app** is an app that introduces ... [TODO] 
+BeReal is an app that introduces ... BeReal
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+[BeReal2.gif.zip](https://github.com/Bsmit4315/BeReal2/files/10809075/BeReal2.gif.zip)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
@@ -40,6 +40,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 
 ## License
 
